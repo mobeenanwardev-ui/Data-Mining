@@ -20,13 +20,13 @@ Well-commented and structured so that anyone reading can follow step by step.
 ```
 Data-Mining/
 │
-├── Exercise1_Python_Basics_Solutions.py
+├── Python_Basics.py
 │   Python fundamentals for data mining.
 │   Topics: shell commands, numpy, pandas, mutability, list comprehension,
 │            assert statements, custom functions (add_values, cumulative_sum,
 │            is_palindrome, find_the_a).
 │
-├── Exercise2_Classification_Solutions.py
+├── Decision_Tree_RandomForest_Classification.py
 │   Supervised Learning – Classification on the Iris dataset.
 │   Models: Decision Tree, Random Forest.
 │   Metrics: Accuracy, Confusion Matrix, Classification Report.
