@@ -6,14 +6,6 @@
 
 ---
 
-## What is this repo?
-
-This repository contains my personal solution files for the Data Mining course.
-Each file is written by me after working through the concepts in class.
-Well-commented and structured so that anyone reading can follow step by step.
-
----
-
 ## Structure
 
 ### Foundations
