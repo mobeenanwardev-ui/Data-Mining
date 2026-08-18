@@ -1,9 +1,8 @@
-# Data Mining – Exercise Solutions
+# Data Mining 
 
 **Author:** Mobeen Anwar  
 **Degree:** M.Sc. High Integrity Systems  
 **University:** Frankfurt University of Applied Sciences  
-**Semester:** 2nd Semester (Summer 2026)
 
 ---
 
